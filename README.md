@@ -1,11 +1,14 @@
 # Genetic-Algorithms
-Homework T1: Find the minimum for the following functions: De Jong 1, Schwefel's, Rastrigin's, Michalewicz's
+Homework T1: 
+Find the minimum for the following functions: De Jong 1, Schwefel's, Rastrigin's, Michalewicz's
 using the Hill Climbing (the first improvement, best improvement and worst improvement variants) and Simulated Annealing algorithms (hybridising one of the Hill Climbing variants).
 Analyse the 5-, 10- and 30-dimensional versions of all functions. (Perhaps run the 100-dimensional version as well, as an upper bound). Use a precision of at least 5 decimal places after 0.
 
+Homework T2: 
 Solve Homework T1 using a Genetic Algorithm. Compare with the results obtained in Homework T1 and offer explanations.
 
-Solve one of the problems below with a Genetic Algorithm and another heuristic:
+Homework 
+T3: Solve one of the problems below with a Genetic Algorithm and another heuristic:
 1. The Quadratic Assignment Problem.
 2. The Graph Colouring Problem.(Test instances)
 3. The Traveling Salesperson Problem (TSP)(Test instances)
