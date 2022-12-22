@@ -1,0 +1,15 @@
+bier127 maps/bier127.txt
+eil51 maps/eil51.txt
+gr202 maps/gr202.txt
+krod100 maps/krod100.txt
+st70 maps/st70.txt
+pcb442 maps/pcb442.txt
+ts225 maps/ts225.txt
+rat99 maps/rat99.txt
+pr2392 maps/pr2392.txt
+gil262 maps/gil262.txt
+berlin52 maps/berlin52.txt
+a280 maps/a280.txt
+pr226 maps/pr226.txt\
+rat195 maps/rat195.txt
+usa13509 maps/usa13509.txt
