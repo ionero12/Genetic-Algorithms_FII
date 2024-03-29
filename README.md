@@ -1,4 +1,7 @@
 # Genetic-Algorithms
+
+Year 2 Semester 1
+
 Homework T1: 
 Find the minimum for the following functions: De Jong 1, Schwefel's, Rastrigin's, Michalewicz's
 using the Hill Climbing (the first improvement, best improvement and worst improvement variants) and Simulated Annealing algorithms (hybridising one of the Hill Climbing variants).
